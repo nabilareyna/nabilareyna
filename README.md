@@ -17,6 +17,14 @@ Hi! I’m an Informatics Engineering student at UIN Maulana Malik Ibrahim Malang
 I have experience working with PHP Native, and Laravel on both academic projects and personal experiments.
 
 I believe learning doesn’t stop in the classroom, so I’m always exploring new things in both tech and creative fields.  
+
+## Mobile Practicum Task
+  | No  | Tgl  | Praktikum ke-  | Topik  | Modul  | Template Laporan  |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |  |
+
+
   
 
 <br/>  
