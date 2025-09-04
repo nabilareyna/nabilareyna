@@ -21,7 +21,7 @@ I believe learning doesn’t stop in the classroom, so I’m always exploring ne
 ## Mobile Practicum Task
   | No  | Tgl  | Praktikum ke-  | Topik  | Modul  | Template Laporan  |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-|   |   |   |   |   |   |
+|  1 |  03/09/25 |  1 |   |   |   |
 |   |   |   |   |   |   |  |
 
 
