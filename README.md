@@ -19,7 +19,7 @@ I have experience working with PHP Native, and Laravel on both academic projects
 I believe learning doesn’t stop in the classroom, so I’m always exploring new things in both tech and creative fields.  
 
 ## Mobile Practicum Task
-  | No  | Tgl  | Praktikum ke-  | Topik  | Modul  | Template Laporan  |
+  | No  | Tgl  | Praktikum ke-  | Topik  | Github  | Laporan  |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 |  1 |  03/09/25 |  1 |   |   |   |
 |   |   |   |   |   |   |  |
