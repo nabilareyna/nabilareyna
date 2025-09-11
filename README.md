@@ -21,7 +21,7 @@ I believe learning doesn’t stop in the classroom, so I’m always exploring ne
 ## Mobile Practicum Task
   | No  | Tgl  | Praktikum ke-  | Topik  | Github  | Laporan  |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1 |  03/09/25 |  1 |   |   |   |
+|  1 |  03/09/25 |  1 |   | [Praktikum 1](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_1)  |   |
 |  1 |  03/09/25 |  1 |   |   |   |  |
 |  2 |  10/09/25 |  2 |   |   |   |  |
 |  2 |  10/09/25 |  2 |   |   |   |  |
