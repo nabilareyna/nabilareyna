@@ -23,7 +23,7 @@ I believe learning doesn’t stop in the classroom, so I’m always exploring ne
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 |  1 |  03/09/25 |  1 |   | [Modul 1](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_1)  |  [Laporan Modul 1](https://drive.google.com/file/d/1_02oqkzDsQeHXvbatClQlwfkdv7GQqbb/view?usp=drive_link) |
 |  1 |  03/09/25 |  1 |   | [Modul 2](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_2) | [Laporan Modul 2](https://drive.google.com/file/d/1cgF92z9B71ID3pjZpOjjvZC9CXIHQkPZ/view?usp=sharing)  |  |
-|  2 |  10/09/25 |  2 |   | [Modul 3](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_3) |   |  |
+|  2 |  10/09/25 |  2 |   | [Modul 3](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_3) | [Laporan Modul 3](https://drive.google.com/file/d/1Puuac2TSJh3eeIc8js22bRnO0Pxg95vI/view?usp=drive_link)  |  |
 |  2 |  10/09/25 |  2 |   |   |   |  |
 
 
