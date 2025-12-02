@@ -24,7 +24,15 @@ I believe learning doesn’t stop in the classroom, so I’m always exploring ne
 |  1 |  03/09/25 |  1 |   | [Modul 1](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_1)  |  [Laporan Modul 1](https://drive.google.com/file/d/1_02oqkzDsQeHXvbatClQlwfkdv7GQqbb/view?usp=drive_link) |
 |  1 |  03/09/25 |  1 |   | [Modul 2](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_2) | [Laporan Modul 2](https://drive.google.com/file/d/1cgF92z9B71ID3pjZpOjjvZC9CXIHQkPZ/view?usp=sharing)  |  |
 |  2 |  10/09/25 |  2 |   | [Modul 3](https://github.com/nabilareyna/praktikum_mobile/tree/praktikum_3) | [Laporan Modul 3](https://drive.google.com/file/d/1Puuac2TSJh3eeIc8js22bRnO0Pxg95vI/view?usp=drive_link)  |  |
-|  2 |  10/09/25 |  2 |   | [Modul 4](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 4(https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)]  |  |
+|  2 |  10/09/25 |  2 |   | [Modul 4](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 4](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  3 |  17/09/25 |  3 |   | [Modul 5](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 5](https://drive.google.com/file/d/1eIHdQPWoaUG-iYDIUY4ym8ax3mii3gj0/view?usp=drive_link)  |  |
+|  3 |  17/09/25 |  3 |   | [Modul 6](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 6](https://drive.google.com/file/d/1is6Xrq8sTLoPNhgPmko7MMSHqZgTyv2e/view?usp=drive_link)  |  |
+|  4 |  24/09/25 |  4 |   | [Modul 7](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 7](https://drive.google.com/file/d/1y83kAU0uKlih3Nmy5xBI_yPqPhZXOn_g/view?usp=drive_link)  |  |
+|  4 |  24/09/25 |  4 |   | [Modul 8](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 8](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  5 |  24/09/25 |  5 |   | [Modul 9](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 9](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  5 |  24/09/25 |  5 |   | [Modul 10](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 10](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  6 |  24/09/25 |  6 |   | [Modul 11](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 11](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  6 |  24/09/25 |  6 |   | [Modul 12](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 12](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
 
 
   
