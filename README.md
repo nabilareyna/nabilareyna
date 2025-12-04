@@ -13,7 +13,7 @@
 
 ### Glad to see you here!  
 Hi! I’m an Informatics Engineering student at UIN Maulana Malik Ibrahim Malang. I’m currently focusing on frontend development with HTML, CSS, JavaScript, React, and Flutter. Besides coding, I also have a strong interest in video editing and motion graphics as a creative outlet.
-
+https://github.com/nabilareyna/nabilareyna/blob/main/README.md
 I have experience working with PHP Native, and Laravel on both academic projects and personal experiments.
 
 I believe learning doesn’t stop in the classroom, so I’m always exploring new things in both tech and creative fields.  
@@ -28,11 +28,12 @@ I believe learning doesn’t stop in the classroom, so I’m always exploring ne
 |  3 |  17/09/25 |  3 |   | [Modul 5](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 5](https://drive.google.com/file/d/1eIHdQPWoaUG-iYDIUY4ym8ax3mii3gj0/view?usp=drive_link)  |  |
 |  3 |  17/09/25 |  3 |   | [Modul 6](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 6](https://drive.google.com/file/d/1is6Xrq8sTLoPNhgPmko7MMSHqZgTyv2e/view?usp=drive_link)  |  |
 |  4 |  24/09/25 |  4 |   | [Modul 7](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 7](https://drive.google.com/file/d/1y83kAU0uKlih3Nmy5xBI_yPqPhZXOn_g/view?usp=drive_link)  |  |
-|  4 |  24/09/25 |  4 |   | [Modul 8](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 8](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
-|  5 |  24/09/25 |  5 |   | [Modul 9](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 9](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
-|  5 |  24/09/25 |  5 |   | [Modul 10](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 10](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
-|  6 |  24/09/25 |  6 |   | [Modul 11](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 11](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
-|  6 |  24/09/25 |  6 |   | [Modul 12](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 12](https://drive.google.com/file/d/1t4QXOsdh27Y6SvZu6j1fc-bIWyIqr6v6/view?usp=drive_link)  |  |
+|  4 |  24/09/25 |  4 |   | [Modul 8](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 8](https://drive.google.com/file/d/1CexhUOOQGKnzqLHfzZIkJS13bpk2RkE9/view?usp=drive_link)  |  |
+|  5 |  24/09/25 |  5 |   | [Modul 9](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 9](https://drive.google.com/file/d/1yeblpnN3CRNQf21aEOU7xq7-ihWbqXUv/view?usp=drive_link)  |  |
+|  5 |  24/09/25 |  5 |   | [Modul 10](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 10](https://drive.google.com/file/d/1qWcRl0vXcec9MoGzttx0vw1ocLFrS0p5/view?usp=drive_link)  |  |
+|  6 |  24/09/25 |  6 |   | [Modul 11](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 11](https://drive.google.com/file/d/11LRqHubeXMw7fXWB0AYX013KTrAd4hzc/view?usp=drive_link)  |  |
+|  6 |  24/09/25 |  6 |   | [Modul 12](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 12](https://drive.google.com/file/d/1krwflnK1lNf2e0irVugW5z171nLDSNta/view?usp=drive_link)  |  |
+|  7 |  24/09/25 |  7 |   | [Modul 13](https://github.com/nabilareyna/praktikum_mobile.git)  | [Laporan Modul 13](https://drive.google.com/file/d/1f6I_ecgJe6Gn_QcVJcBCnxSbqaxtkERd/view?usp=drive_link)  |  |
 
 
   
